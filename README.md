@@ -1,14 +1,20 @@
-First read-me file.
+This repos is for learning git commands.
 
-## Header
+## Git
 
-### header 1
+### Setting up from an existing git repo
 
-* first item
-* second item
-* third item
+```
+git clone <remote-git> local-repo
+git switch <branch-name>
+git status
+git log
+```
 
 ### header 2
-some other text
+```
+git branch <branch-name> <commit>
+git switch <branch-name>
+```
 
 
