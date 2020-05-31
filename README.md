@@ -11,7 +11,7 @@ git status
 git log
 ```
 
-### header 2
+### Create a new branch from a commit
 ```
 git branch <branch-name> <commit>
 git switch <branch-name>
