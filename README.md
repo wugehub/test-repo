@@ -17,6 +17,12 @@ git branch <branch-name> <commit>
 git switch <branch-name>
 ```
 
-### header 3
-To test branch
+### Merge from a branch
+```
+git merge <branch-name>
+```
 
+### Update Git on Windows
+```
+git update-git-for-windows
+```
